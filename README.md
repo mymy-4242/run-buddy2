@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://mymy-4242.github.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by MM.
+
+### ©️2019 Run Buddy, Inc
