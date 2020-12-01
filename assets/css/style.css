@@ -114,12 +114,13 @@ header nav ul li a {
 }
 
 .section-title {
-    display: inline-block;
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid
+    border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
 }
 
 .primary-border {
@@ -131,10 +132,6 @@ header nav ul li a {
 }
 
 /*what you do*/
-.intro {
-    text-align: center;
-}
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -145,7 +142,6 @@ header nav ul li a {
 
 /*what we do*/
 .steps {
-    text-align: center;
     background: #fce138;
 }
 
@@ -174,18 +170,6 @@ header nav ul li a {
 }
 
 /*trainers*/
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
-}
-
-.trainers {
-    text-align: center;
-}
-
 .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
@@ -223,7 +207,6 @@ header nav ul li a {
 
 /*reach out*/
 .contact {
-    text-align: center;
     width: 900px;
     margin: 0 auto 30px auto;
     background-color: #024e76;
@@ -286,4 +269,16 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.flex-row {
+    display: flex;
 }
