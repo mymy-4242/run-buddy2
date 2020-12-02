@@ -233,6 +233,19 @@ header nav ul li a {
     font-size: 17px;
 }
 
+/*service plans*/
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 /*reach out*/
 .contact {
     width: 100%;
