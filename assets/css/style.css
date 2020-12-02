@@ -235,7 +235,7 @@ header nav ul li a {
 
 /*reach out*/
 .contact {
-    width: 900px;
+    width: 100%;
     margin: 0 auto 30px auto;
     background-color: #024e76;
 }
